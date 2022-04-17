@@ -1,0 +1,10 @@
+name: BungeeCVS
+main: me.theminiluca.mc.bungee.cvs.BungeeCVS
+version: 1.0.0 Beta
+api-version: 1.13
+depend:
+  - Citizens
+author: MiniLuca#7822
+commands:
+  bungeecvs:
+    description: A defaults command.
